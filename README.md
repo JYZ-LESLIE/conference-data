@@ -36,7 +36,7 @@ The conference dataset hosted in this repository tracks the following informatio
 | [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never |
 | [PyCon](https://pycon.org) | PyCon Board Committee | Pending | No | Yes | Keynote |
 | [QCon](https://qconferences.com/) | [C4Media](https://c4media.com/) | No | Yes | Partial | Never |
-| [Scala Days](https://scaladays.org/) | [Scala Center](https://scala.epfl.ch/) | No | Yes | Partial | Never |
+| [Scala Days](https://scaladays.org/) | [Scala Center](https://scala.epfl.ch/), [Xebia Functional](https://xebia.com/) | No | Yes | Yes | Never |
 | [ScalarConf](https://www.scalar-conf.com) | [Software Mill](https://softwaremill.com/) | No | Yes | No | Never |
 | [ZIO World](https://zioworld.com) | [Ziverge](https://ziverge.com) | Yes | Yes | No | Never |
 
